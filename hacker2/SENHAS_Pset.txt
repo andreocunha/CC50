@@ -1,0 +1,11 @@
+andre_wordlist -> 2.238.928.128 palavras (combinacoes de 0-9 e a-z)
+
+Linha 4540245 : 50m2tb.6jehfA - SENHA: pres
+Linha 596314 : 50T5DqRZxAIe2 - SENHA: cs50
+Linha 1085088 : 50WZ/Wy2GdA1Y - SENHA: n00b
+Linha 377197 : 50NwUtF.OmQNY - SENHA: 1337
+Linha 124474 : 50Bt2CexZzo7k - SENHA: guest
+Linha 53373108 : 500EYaB0S7wVk - SENHA: uryyb
+Linha 5793 : HAkzjBWeQ/Ugc - SENHA: homer
+Linha 817585045 : 50dxMUnMm53rg - SENHA: chrono
+Linha 1 : 42XWroImGkEpU - SENHA: 123456
